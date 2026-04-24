@@ -4,8 +4,6 @@ The goal is to complete the code within the stipulated amount of time. This app 
 
 ## Install
 
-### Windows
-
 If nothing is installed yet:
 
 1. Download and install `Node.js` version `20.19+` or `22.12+` from the official Node.js website. https://nodejs.org/en/download
