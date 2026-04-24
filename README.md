@@ -1,10 +1,8 @@
 # Mini Sentiment Feedback
 
-The goal is to complete the code within the stipulated amount of time. This app is deployed on an EC2 instance and served via Nginx accessible here - http://54.255.172.66/.
+The goal is to complete the code within the stipulated amount of time. This app is deployed on an EC2 instance and served via Nginx accessible here - http://54.255.172.66
 
 ## Install
-
-### Windows
 
 If nothing is installed yet:
 
